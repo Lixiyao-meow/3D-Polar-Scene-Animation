@@ -1,5 +1,5 @@
 # 3D-Scene-Animation
-3D polar scene written in C++ using the VCL library
+3D polar scene using the VCL library
 
 ## Basic Models:
 - Igloo: mesh with texture
